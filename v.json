@@ -1,5 +1,6 @@
 {
-    "Kaitan " : {
-        "Configuration": true
-    }
+    "Kaitan " : [
+        "Configuration",
+        "Kaitan"
+    ]
 }
